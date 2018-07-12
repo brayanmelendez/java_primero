@@ -21,7 +21,7 @@ public class Tiposdedatos {
         
         System.out.println(v3);
         
-        String cadena;
+        String cadena;  //esto para guardar valores de tipo cadena 
         
         cadena = "hola gente";
         
