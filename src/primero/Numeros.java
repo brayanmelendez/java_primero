@@ -3,6 +3,11 @@ package primero;
 public class Numeros {
 
     public static void main(String[] args) {
+        
+        int x1 = 21;
+        
+        String s1 = "brayan";   
+        
         Number x = new Integer("99");
         System.out.println(x);
         
