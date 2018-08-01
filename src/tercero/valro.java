@@ -32,18 +32,14 @@ public class valro {
 
         Scanner inn = new Scanner(System.in);
 
-        
-
         int neto;
 
         neto = cantidad * precio;
 
         System.out.println("el valor neto es de: " + neto);
-        
-       
-        
+
         int iva = (int) (neto * 0.19);
-        
+
         System.out.println("el valor del iva es de: " + iva);
 
     }
